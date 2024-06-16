@@ -51,3 +51,10 @@ a {
   list-style-type: none;
   line-height: 2;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+}
