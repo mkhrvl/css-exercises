@@ -65,3 +65,16 @@ a {
   font-weight: bold;
   padding: 0.5em 1em;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+  background-color: #eeeeee;
+}
+
+.footer .left-links,
+.footer .right-links {
+  display: flex;
+  gap: 1em;
+}
